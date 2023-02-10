@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="bson-3-0-4" local="true" sourceType="file" type="GENERICJAR">
+<location category="ExternalJars" file="bson-3.0.4.jar" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="extentreports-2-41-2" local="true" sourceType="file" type="GENERICJAR">
+<location category="ExternalJars" file="extentreports-2.41.2.jar" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="freemarker-2-3-23" local="true" sourceType="file" type="GENERICJAR">
+<location category="ExternalJars" file="freemarker-2.3.23.jar" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="jsoup-1-8-3" local="true" sourceType="file" type="GENERICJAR">
+<location category="ExternalJars" file="jsoup-1.8.3.jar" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="mongodb-driver-3-0-4" local="true" sourceType="file" type="GENERICJAR">
+<location category="ExternalJars" file="mongodb-driver-3.0.4.jar" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="mongodb-driver-core-3-0-4" local="true" sourceType="file" type="GENERICJAR">
+<location category="ExternalJars" file="mongodb-driver-core-3.0.4.jar" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="sqlite-jdbc-3-8-11-1" local="true" sourceType="file" type="GENERICJAR">
+<location category="ExternalJars" file="sqlite-jdbc-3.8.11.1.jar" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="CommonLibrary" local="true" sourceType="file" type="SCRIPT">
+<location category="FunctionLibraries" file="CommonLibrary" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+</assets>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="CommonLibrary" local="true" sourceType="file" type="SCRIPT">
+<location category="FunctionLibraries" file="CommonLibrary" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="EBSApplicationDeveloper" local="true" sourceType="file" type="SCRIPT">
+<location category="FunctionLibraries/ApplicationLibrary" file="EBSApplicationDeveloper" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+<asset alias="Report" local="true" sourceType="file" type="SCRIPT">
+<location category="FunctionLibraries" file="Report" repository="OracleEBS_Automation" type="repository"/>
+</asset>
+</assets>

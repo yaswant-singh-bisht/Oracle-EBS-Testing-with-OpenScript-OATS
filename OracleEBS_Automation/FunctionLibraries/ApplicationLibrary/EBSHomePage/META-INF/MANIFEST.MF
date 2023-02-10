@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: TigerBrands_AutomationSuite.FunctionLibraries.App
+ licationLibrary.ApprovingleavebyMSS
+Bundle-Name: ApprovingleavebyMSS
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: oracle.oats.javaAgent,
+ oracle.oats.jagent.cmdline,
+ org.apache.jakarta_log4j,
+ oracle.oats.framework,
+ oracle.oats.utilities,
+ oracle.oats.jagent.lib3rdparty,
+ oracle.oats.jagent.scripting,
+ oracle.oats.scripting.modules.basic.api,
+ oracle.oats.scripting.modules.utilities.api,
+ oracle.oats.scripting.modules.webdom.api,
+ oracle.oats.scripting.modules.browser.api,
+ oracle.oats.scripting.modules.adf.api,
+ oracle.oats.scripting.modules.functionalTest.api,
+ oracle.oats.scripting.modules.datatable.api
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

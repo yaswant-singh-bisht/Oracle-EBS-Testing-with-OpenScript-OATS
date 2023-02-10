@@ -1,4 +1,4 @@
-# Oracle-EBS-Testing-with-TestScript-OATS
+# Oracle-EBS-Testing-with-OpenScript-OATS
 
 Oracle eBusiness Suite - Version 12.2.10
 Download from https://edelivery.oracle.com/
